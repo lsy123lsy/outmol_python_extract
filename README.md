@@ -1,0 +1,2 @@
+# outmol_python_extract
+从DFT计算文件中提取outmol文件并利用正则表达式提取需要的信息
