@@ -1,0 +1,1005 @@
+CsGeBr-CsGeBr
+Fermi Energy:            -0.15132 Ha     -4.118 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12737 Ha      3.466 eV
+valence band edge:       -0.21626 Ha     -5.885 eV
+conduction band edge:    -0.08889 Ha     -2.419 eV
+CsGeBr-CsGeF
+Fermi Energy:            -0.15270 Ha     -4.155 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12718 Ha      3.461 eV
+valence band edge:       -0.21522 Ha     -5.856 eV
+conduction band edge:    -0.08804 Ha     -2.396 eV
+CsGeBr-CsGeI
+Fermi Energy:            -0.14925 Ha     -4.061 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12650 Ha      3.442 eV
+valence band edge:       -0.21553 Ha     -5.865 eV
+conduction band edge:    -0.08903 Ha     -2.423 eV
+CsGeBr-CsPbBr
+Fermi Energy:            -0.15174 Ha     -4.129 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13099 Ha      3.564 eV
+valence band edge:       -0.21904 Ha     -5.960 eV
+conduction band edge:    -0.08805 Ha     -2.396 eV
+CsGeBr-CsPbCl
+Fermi Energy:            -0.15272 Ha     -4.156 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13039 Ha      3.548 eV
+valence band edge:       -0.21961 Ha     -5.976 eV
+conduction band edge:    -0.08923 Ha     -2.428 eV
+CsGeBr-CsPbF
+Fermi Energy:            -0.15370 Ha     -4.182 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12369 Ha      3.366 eV
+valence band edge:       -0.21771 Ha     -5.924 eV
+conduction band edge:    -0.09402 Ha     -2.558 eV
+CsGeBr-CsPbI
+Fermi Energy:            -0.14922 Ha     -4.060 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12136 Ha      3.302 eV
+valence band edge:       -0.21194 Ha     -5.767 eV
+conduction band edge:    -0.09058 Ha     -2.465 eV
+CsGeBr-CsSnBr
+Fermi Energy:            -0.15106 Ha     -4.111 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12581 Ha      3.423 eV
+valence band edge:       -0.21480 Ha     -5.845 eV
+conduction band edge:    -0.08899 Ha     -2.422 eV
+CsGeBr-CsSnCl
+Fermi Energy:            -0.15180 Ha     -4.131 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12205 Ha      3.321 eV
+valence band edge:       -0.21341 Ha     -5.807 eV
+conduction band edge:    -0.09136 Ha     -2.486 eV
+CsGeBr-CsSnF
+Fermi Energy:            -0.15241 Ha     -4.147 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12222 Ha      3.326 eV
+valence band edge:       -0.21402 Ha     -5.824 eV
+conduction band edge:    -0.09180 Ha     -2.498 eV
+CsGeBr-CsSnI
+Fermi Energy:            -0.14956 Ha     -4.070 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12075 Ha      3.286 eV
+valence band edge:       -0.21139 Ha     -5.752 eV
+conduction band edge:    -0.09065 Ha     -2.467 eV
+CsGeBr-LiPbBr
+Fermi Energy:            -0.15168 Ha     -4.127 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11415 Ha      3.106 eV
+valence band edge:       -0.20960 Ha     -5.704 eV
+conduction band edge:    -0.09545 Ha     -2.597 eV
+CsGeBr-LiPbF
+Fermi Energy:            -0.15293 Ha     -4.162 eV   -kTS_e= -0.000371Ha
+DFT energy gap:           0.06956 Ha      1.893 eV
+valence band edge:       -0.18985 Ha     -5.166 eV
+conduction band edge:    -0.12029 Ha     -3.273 eV
+CsGeBr-LiPbI
+Fermi Energy:            -0.14865 Ha     -4.045 eV   -kTS_e= -0.000006Ha
+DFT energy gap:           0.11414 Ha      3.106 eV
+valence band edge:       -0.20753 Ha     -5.647 eV
+conduction band edge:    -0.09339 Ha     -2.541 eV
+CsGeBr-LiSnBr
+Fermi Energy:            -0.15370 Ha     -4.183 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12052 Ha      3.280 eV
+valence band edge:       -0.21412 Ha     -5.826 eV
+conduction band edge:    -0.09359 Ha     -2.547 eV
+CsGeBr-LiSnF
+Fermi Energy:            -0.15486 Ha     -4.214 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.11943 Ha      3.250 eV
+valence band edge:       -0.21473 Ha     -5.843 eV
+conduction band edge:    -0.09530 Ha     -2.593 eV
+CsGeBr-NaPbBr
+Fermi Energy:            -0.15363 Ha     -4.181 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.11974 Ha      3.258 eV
+valence band edge:       -0.21434 Ha     -5.832 eV
+conduction band edge:    -0.09459 Ha     -2.574 eV
+CsGeBr-NaPbI
+Fermi Energy:            -0.15237 Ha     -4.146 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12197 Ha      3.319 eV
+valence band edge:       -0.21451 Ha     -5.837 eV
+conduction band edge:    -0.09254 Ha     -2.518 eV
+CsGeBr-NaSnBr
+Fermi Energy:            -0.15408 Ha     -4.193 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.11979 Ha      3.260 eV
+valence band edge:       -0.21421 Ha     -5.829 eV
+conduction band edge:    -0.09442 Ha     -2.569 eV
+CsGeBr-NaSnF
+Fermi Energy:            -0.15509 Ha     -4.220 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11407 Ha      3.104 eV
+valence band edge:       -0.21180 Ha     -5.763 eV
+conduction band edge:    -0.09773 Ha     -2.659 eV
+CsGeBr-RbGeBr
+Fermi Energy:            -0.15121 Ha     -4.115 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12630 Ha      3.437 eV
+valence band edge:       -0.21543 Ha     -5.862 eV
+conduction band edge:    -0.08913 Ha     -2.425 eV
+CsGeBr-RbGeF
+Fermi Energy:            -0.15227 Ha     -4.143 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12477 Ha      3.395 eV
+valence band edge:       -0.21418 Ha     -5.828 eV
+conduction band edge:    -0.08942 Ha     -2.433 eV
+CsGeBr-RbPbBr
+Fermi Energy:            -0.15162 Ha     -4.126 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13006 Ha      3.539 eV
+valence band edge:       -0.21829 Ha     -5.940 eV
+conduction band edge:    -0.08824 Ha     -2.401 eV
+CsGeBr-RbPbCl
+Fermi Energy:            -0.15256 Ha     -4.151 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12911 Ha      3.513 eV
+valence band edge:       -0.21867 Ha     -5.950 eV
+conduction band edge:    -0.08956 Ha     -2.437 eV
+CsGeBr-RbPbF
+Fermi Energy:            -0.15349 Ha     -4.177 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12169 Ha      3.311 eV
+valence band edge:       -0.21660 Ha     -5.894 eV
+conduction band edge:    -0.09491 Ha     -2.583 eV
+CsGeBr-RbPbI
+Fermi Energy:            -0.15067 Ha     -4.100 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13052 Ha      3.552 eV
+valence band edge:       -0.21786 Ha     -5.928 eV
+conduction band edge:    -0.08734 Ha     -2.377 eV
+CsGeBr-RbSnBr
+Fermi Energy:            -0.15126 Ha     -4.116 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12116 Ha      3.297 eV
+valence band edge:       -0.21250 Ha     -5.783 eV
+conduction band edge:    -0.09135 Ha     -2.486 eV
+CsGeBr-RbSnF
+Fermi Energy:            -0.15240 Ha     -4.147 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.11935 Ha      3.248 eV
+valence band edge:       -0.21255 Ha     -5.784 eV
+conduction band edge:    -0.09321 Ha     -2.536 eV
+CsGeBr-RbSnI
+Fermi Energy:            -0.14915 Ha     -4.059 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12905 Ha      3.512 eV
+valence band edge:       -0.21498 Ha     -5.850 eV
+conduction band edge:    -0.08593 Ha     -2.338 eV
+CsGeCl-CsPbBr
+Fermi Energy:            -0.15330 Ha     -4.172 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13434 Ha      3.656 eV
+valence band edge:       -0.22252 Ha     -6.055 eV
+conduction band edge:    -0.08818 Ha     -2.399 eV
+CsGeCl-CsPbF
+Fermi Energy:            -0.15603 Ha     -4.246 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13514 Ha      3.677 eV
+valence band edge:       -0.22591 Ha     -6.147 eV
+conduction band edge:    -0.09077 Ha     -2.470 eV
+CsGeCl-CsPbI
+Fermi Energy:            -0.15092 Ha     -4.107 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12795 Ha      3.482 eV
+valence band edge:       -0.21783 Ha     -5.928 eV
+conduction band edge:    -0.08988 Ha     -2.446 eV
+CsGeCl-CsSnBr
+Fermi Energy:            -0.15207 Ha     -4.138 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13078 Ha      3.559 eV
+valence band edge:       -0.21872 Ha     -5.952 eV
+conduction band edge:    -0.08794 Ha     -2.393 eV
+CsGeCl-CsSnF
+Fermi Energy:            -0.15245 Ha     -4.148 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13117 Ha      3.569 eV
+valence band edge:       -0.21888 Ha     -5.956 eV
+conduction band edge:    -0.08771 Ha     -2.387 eV
+CsGeCl-RbPbBr
+Fermi Energy:            -0.15316 Ha     -4.168 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13363 Ha      3.636 eV
+valence band edge:       -0.22186 Ha     -6.037 eV
+conduction band edge:    -0.08823 Ha     -2.401 eV
+CsGeCl-RbPbF
+Fermi Energy:            -0.15484 Ha     -4.213 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12660 Ha      3.445 eV
+valence band edge:       -0.22060 Ha     -6.003 eV
+conduction band edge:    -0.09400 Ha     -2.558 eV
+CsGeCl-RbSnBr
+Fermi Energy:            -0.15065 Ha     -4.099 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13290 Ha      3.616 eV
+valence band edge:       -0.21829 Ha     -5.940 eV
+conduction band edge:    -0.08539 Ha     -2.323 eV
+CsGeCl-RbSnF
+Fermi Energy:            -0.15286 Ha     -4.160 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12829 Ha      3.491 eV
+valence band edge:       -0.21769 Ha     -5.924 eV
+conduction band edge:    -0.08940 Ha     -2.433 eV
+CsGeF-CsPbBr
+Fermi Energy:            -0.14680 Ha     -3.995 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11406 Ha      3.104 eV
+valence band edge:       -0.20653 Ha     -5.620 eV
+conduction band edge:    -0.09247 Ha     -2.516 eV
+CsGeF-CsPbF
+Fermi Energy:            -0.14967 Ha     -4.073 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11628 Ha      3.164 eV
+valence band edge:       -0.21033 Ha     -5.723 eV
+conduction band edge:    -0.09405 Ha     -2.559 eV
+CsGeF-CsPbI
+Fermi Energy:            -0.14391 Ha     -3.916 eV   -kTS_e= -0.000013Ha
+DFT energy gap:           0.10286 Ha      2.799 eV
+valence band edge:       -0.19805 Ha     -5.389 eV
+conduction band edge:    -0.09519 Ha     -2.590 eV
+CsGeF-CsSnBr
+Fermi Energy:            -0.15035 Ha     -4.091 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13415 Ha      3.650 eV
+valence band edge:       -0.21981 Ha     -5.981 eV
+conduction band edge:    -0.08566 Ha     -2.331 eV
+CsGeF-CsSnF
+Fermi Energy:            -0.15333 Ha     -4.172 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13464 Ha      3.664 eV
+valence band edge:       -0.22272 Ha     -6.061 eV
+conduction band edge:    -0.08809 Ha     -2.397 eV
+CsGeF-RbPbBr
+Fermi Energy:            -0.14559 Ha     -3.962 eV   -kTS_e= -0.000011Ha
+DFT energy gap:           0.10532 Ha      2.866 eV
+valence band edge:       -0.20090 Ha     -5.467 eV
+conduction band edge:    -0.09558 Ha     -2.601 eV
+CsGeF-RbPbF
+Fermi Energy:            -0.14931 Ha     -4.063 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11417 Ha      3.107 eV
+valence band edge:       -0.20890 Ha     -5.684 eV
+conduction band edge:    -0.09473 Ha     -2.578 eV
+CsGeF-RbSnBr
+Fermi Energy:            -0.15039 Ha     -4.092 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13206 Ha      3.594 eV
+valence band edge:       -0.21868 Ha     -5.951 eV
+conduction band edge:    -0.08661 Ha     -2.357 eV
+CsGeF-RbSnF
+Fermi Energy:            -0.15339 Ha     -4.174 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13334 Ha      3.628 eV
+valence band edge:       -0.22206 Ha     -6.043 eV
+conduction band edge:    -0.08872 Ha     -2.414 eV
+CsGeI-CsPbBr
+Fermi Energy:            -0.14755 Ha     -4.015 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12168 Ha      3.311 eV
+valence band edge:       -0.21109 Ha     -5.744 eV
+conduction band edge:    -0.08942 Ha     -2.433 eV
+CsGeI-CsPbF
+Fermi Energy:            -0.14811 Ha     -4.030 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11486 Ha      3.126 eV
+valence band edge:       -0.20767 Ha     -5.651 eV
+conduction band edge:    -0.09281 Ha     -2.525 eV
+CsGeI-CsPbI
+Fermi Energy:            -0.14530 Ha     -3.954 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11363 Ha      3.092 eV
+valence band edge:       -0.20422 Ha     -5.557 eV
+conduction band edge:    -0.09060 Ha     -2.465 eV
+CsGeI-CsSnBr
+Fermi Energy:            -0.14743 Ha     -4.012 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.11544 Ha      3.141 eV
+valence band edge:       -0.20669 Ha     -5.624 eV
+conduction band edge:    -0.09125 Ha     -2.483 eV
+CsGeI-CsSnF
+Fermi Energy:            -0.14840 Ha     -4.038 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11403 Ha      3.103 eV
+valence band edge:       -0.20702 Ha     -5.633 eV
+conduction band edge:    -0.09299 Ha     -2.530 eV
+CsGeI-RbPbBr
+Fermi Energy:            -0.14760 Ha     -4.016 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.12110 Ha      3.295 eV
+valence band edge:       -0.21068 Ha     -5.733 eV
+conduction band edge:    -0.08958 Ha     -2.438 eV
+CsGeI-RbPbF
+Fermi Energy:            -0.14785 Ha     -4.023 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11238 Ha      3.058 eV
+valence band edge:       -0.20616 Ha     -5.610 eV
+conduction band edge:    -0.09378 Ha     -2.552 eV
+CsGeI-RbSnBr
+Fermi Energy:            -0.14720 Ha     -4.006 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11372 Ha      3.094 eV
+valence band edge:       -0.20548 Ha     -5.591 eV
+conduction band edge:    -0.09176 Ha     -2.497 eV
+CsGeI-RbSnF
+Fermi Energy:            -0.14824 Ha     -4.034 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11186 Ha      3.044 eV
+valence band edge:       -0.20579 Ha     -5.600 eV
+conduction band edge:    -0.09393 Ha     -2.556 eV
+CsPbBr-CsGeBr
+Fermi Energy:            -0.15383 Ha     -4.186 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12385 Ha      3.370 eV
+valence band edge:       -0.21818 Ha     -5.937 eV
+conduction band edge:    -0.09433 Ha     -2.567 eV
+CsPbBr-CsGeF
+Fermi Energy:            -0.15705 Ha     -4.274 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.12555 Ha      3.417 eV
+valence band edge:       -0.22049 Ha     -6.000 eV
+conduction band edge:    -0.09494 Ha     -2.583 eV
+CsPbBr-CsGeI
+Fermi Energy:            -0.15253 Ha     -4.150 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12290 Ha      3.344 eV
+valence band edge:       -0.21714 Ha     -5.909 eV
+conduction band edge:    -0.09425 Ha     -2.565 eV
+CsPbBr-CsPbBr
+Fermi Energy:            -0.15259 Ha     -4.152 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13156 Ha      3.580 eV
+valence band edge:       -0.22165 Ha     -6.031 eV
+conduction band edge:    -0.09009 Ha     -2.451 eV
+CsPbBr-CsPbCl
+Fermi Energy:            -0.15270 Ha     -4.155 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12511 Ha      3.405 eV
+valence band edge:       -0.21783 Ha     -5.927 eV
+conduction band edge:    -0.09271 Ha     -2.523 eV
+CsPbBr-CsPbF
+Fermi Energy:            -0.15129 Ha     -4.117 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11194 Ha      3.046 eV
+valence band edge:       -0.20925 Ha     -5.694 eV
+conduction band edge:    -0.09731 Ha     -2.648 eV
+CsPbBr-CsPbI
+Fermi Energy:            -0.15060 Ha     -4.098 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12441 Ha      3.385 eV
+valence band edge:       -0.21591 Ha     -5.875 eV
+conduction band edge:    -0.09150 Ha     -2.490 eV
+CsPbBr-CsSnBr
+Fermi Energy:            -0.15209 Ha     -4.139 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12504 Ha      3.402 eV
+valence band edge:       -0.21701 Ha     -5.905 eV
+conduction band edge:    -0.09197 Ha     -2.503 eV
+CsPbBr-CsSnCl
+Fermi Energy:            -0.15235 Ha     -4.146 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12395 Ha      3.373 eV
+valence band edge:       -0.21706 Ha     -5.906 eV
+conduction band edge:    -0.09311 Ha     -2.534 eV
+CsPbBr-CsSnF
+Fermi Energy:            -0.15208 Ha     -4.138 eV   -kTS_e= -0.000006Ha
+DFT energy gap:           0.11061 Ha      3.010 eV
+valence band edge:       -0.20961 Ha     -5.704 eV
+conduction band edge:    -0.09900 Ha     -2.694 eV
+CsPbBr-CsSnI
+Fermi Energy:            -0.15133 Ha     -4.118 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12254 Ha      3.335 eV
+valence band edge:       -0.21510 Ha     -5.853 eV
+conduction band edge:    -0.09256 Ha     -2.519 eV
+CsPbBr-KPbBr
+Fermi Energy:            -0.15245 Ha     -4.148 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13086 Ha      3.561 eV
+valence band edge:       -0.22099 Ha     -6.013 eV
+conduction band edge:    -0.09012 Ha     -2.452 eV
+CsPbBr-KPbF
+Fermi Energy:            -0.15082 Ha     -4.104 eV   -kTS_e= -0.000007Ha
+DFT energy gap:           0.10861 Ha      2.955 eV
+valence band edge:       -0.20708 Ha     -5.635 eV
+conduction band edge:    -0.09847 Ha     -2.679 eV
+CsPbBr-KPbI
+Fermi Energy:            -0.15178 Ha     -4.130 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13331 Ha      3.628 eV
+valence band edge:       -0.22154 Ha     -6.029 eV
+conduction band edge:    -0.08824 Ha     -2.401 eV
+CsPbBr-KSnBr
+Fermi Energy:            -0.15159 Ha     -4.125 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12287 Ha      3.344 eV
+valence band edge:       -0.21566 Ha     -5.869 eV
+conduction band edge:    -0.09279 Ha     -2.525 eV
+CsPbBr-KSnF
+Fermi Energy:            -0.15212 Ha     -4.139 eV   -kTS_e= -0.000006Ha
+DFT energy gap:           0.11148 Ha      3.033 eV
+valence band edge:       -0.20997 Ha     -5.714 eV
+conduction band edge:    -0.09850 Ha     -2.680 eV
+CsPbBr-LiPbBr
+Fermi Energy:            -0.15124 Ha     -4.115 eV   -kTS_e= -0.000510Ha
+DFT energy gap:           0.06446 Ha      1.754 eV
+valence band edge:       -0.18479 Ha     -5.029 eV
+conduction band edge:    -0.12033 Ha     -3.274 eV
+CsPbBr-LiPbF
+Fermi Energy:            -0.15167 Ha     -4.127 eV   -kTS_e= -0.000867Ha
+DFT energy gap:           0.05743 Ha      1.563 eV
+valence band edge:       -0.18141 Ha     -4.936 eV
+conduction band edge:    -0.12398 Ha     -3.374 eV
+CsPbBr-LiPbI
+Fermi Energy:            -0.14960 Ha     -4.071 eV   -kTS_e= -0.000546Ha
+DFT energy gap:           0.06699 Ha      1.823 eV
+valence band edge:       -0.18590 Ha     -5.059 eV
+conduction band edge:    -0.11891 Ha     -3.236 eV
+CsPbBr-LiSnBr
+Fermi Energy:            -0.15492 Ha     -4.216 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11725 Ha      3.191 eV
+valence band edge:       -0.21555 Ha     -5.866 eV
+conduction band edge:    -0.09830 Ha     -2.675 eV
+CsPbBr-LiSnF
+Fermi Energy:            -0.15825 Ha     -4.306 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11489 Ha      3.126 eV
+valence band edge:       -0.21812 Ha     -5.935 eV
+conduction band edge:    -0.10323 Ha     -2.809 eV
+CsPbBr-NaPbBr
+Fermi Energy:            -0.15222 Ha     -4.142 eV   -kTS_e= -0.000013Ha
+DFT energy gap:           0.10503 Ha      2.858 eV
+valence band edge:       -0.20592 Ha     -5.603 eV
+conduction band edge:    -0.10089 Ha     -2.745 eV
+CsPbBr-NaPbF
+Fermi Energy:            -0.15032 Ha     -4.090 eV   -kTS_e= -0.000153Ha
+DFT energy gap:           0.07560 Ha      2.057 eV
+valence band edge:       -0.18991 Ha     -5.168 eV
+conduction band edge:    -0.11432 Ha     -3.111 eV
+CsPbBr-NaPbI
+Fermi Energy:            -0.15557 Ha     -4.233 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.12056 Ha      3.280 eV
+valence band edge:       -0.21836 Ha     -5.942 eV
+conduction band edge:    -0.09780 Ha     -2.661 eV
+CsPbBr-NaSnBr
+Fermi Energy:            -0.15525 Ha     -4.225 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11654 Ha      3.171 eV
+valence band edge:       -0.21564 Ha     -5.868 eV
+conduction band edge:    -0.09910 Ha     -2.697 eV
+CsPbBr-NaSnF
+Fermi Energy:            -0.15797 Ha     -4.299 eV   -kTS_e= -0.000009Ha
+DFT energy gap:           0.10751 Ha      2.926 eV
+valence band edge:       -0.21384 Ha     -5.819 eV
+conduction band edge:    -0.10632 Ha     -2.893 eV
+CsPbBr-RbGeBr
+Fermi Energy:            -0.15356 Ha     -4.179 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12273 Ha      3.340 eV
+valence band edge:       -0.21722 Ha     -5.911 eV
+conduction band edge:    -0.09449 Ha     -2.571 eV
+CsPbBr-RbGeF
+Fermi Energy:            -0.15614 Ha     -4.249 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.12260 Ha      3.336 eV
+valence band edge:       -0.21857 Ha     -5.948 eV
+conduction band edge:    -0.09597 Ha     -2.612 eV
+CsPbBr-RbPbBr
+Fermi Energy:            -0.15246 Ha     -4.149 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13074 Ha      3.558 eV
+valence band edge:       -0.22097 Ha     -6.013 eV
+conduction band edge:    -0.09023 Ha     -2.455 eV
+CsPbBr-RbPbCl
+Fermi Energy:            -0.15151 Ha     -4.123 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11679 Ha      3.178 eV
+valence band edge:       -0.21227 Ha     -5.776 eV
+conduction band edge:    -0.09549 Ha     -2.598 eV
+CsPbBr-RbPbF
+Fermi Energy:            -0.15082 Ha     -4.104 eV   -kTS_e= -0.000007Ha
+DFT energy gap:           0.10856 Ha      2.954 eV
+valence band edge:       -0.20710 Ha     -5.635 eV
+conduction band edge:    -0.09854 Ha     -2.681 eV
+CsPbBr-RbPbI
+Fermi Energy:            -0.15175 Ha     -4.129 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13305 Ha      3.621 eV
+valence band edge:       -0.22144 Ha     -6.026 eV
+conduction band edge:    -0.08838 Ha     -2.405 eV
+CsPbBr-RbSnBr
+Fermi Energy:            -0.15176 Ha     -4.130 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12414 Ha      3.378 eV
+valence band edge:       -0.21606 Ha     -5.879 eV
+conduction band edge:    -0.09192 Ha     -2.501 eV
+CsPbBr-RbSnCl
+Fermi Energy:            -0.15207 Ha     -4.138 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12293 Ha      3.345 eV
+valence band edge:       -0.21611 Ha     -5.881 eV
+conduction band edge:    -0.09318 Ha     -2.536 eV
+CsPbBr-RbSnF
+Fermi Energy:            -0.15220 Ha     -4.142 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11411 Ha      3.105 eV
+valence band edge:       -0.21141 Ha     -5.753 eV
+conduction band edge:    -0.09730 Ha     -2.648 eV
+CsPbBr-RbSnI
+Fermi Energy:            -0.15175 Ha     -4.129 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12761 Ha      3.473 eV
+valence band edge:       -0.21753 Ha     -5.919 eV
+conduction band edge:    -0.08991 Ha     -2.447 eV
+CsPbCl-CsPbBr
+Fermi Energy:            -0.15233 Ha     -4.145 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13254 Ha      3.607 eV
+valence band edge:       -0.22163 Ha     -6.031 eV
+conduction band edge:    -0.08909 Ha     -2.424 eV
+CsPbCl-CsPbF
+Fermi Energy:            -0.15189 Ha     -4.133 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11640 Ha      3.168 eV
+valence band edge:       -0.21207 Ha     -5.771 eV
+conduction band edge:    -0.09566 Ha     -2.603 eV
+CsPbCl-CsPbI
+Fermi Energy:            -0.15053 Ha     -4.096 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12757 Ha      3.471 eV
+valence band edge:       -0.21761 Ha     -5.921 eV
+conduction band edge:    -0.09004 Ha     -2.450 eV
+CsPbCl-CsSnBr
+Fermi Energy:            -0.15235 Ha     -4.146 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13314 Ha      3.623 eV
+valence band edge:       -0.22120 Ha     -6.019 eV
+conduction band edge:    -0.08807 Ha     -2.396 eV
+CsPbCl-CsSnF
+Fermi Energy:            -0.15248 Ha     -4.149 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12038 Ha      3.276 eV
+valence band edge:       -0.21480 Ha     -5.845 eV
+conduction band edge:    -0.09441 Ha     -2.569 eV
+CsPbCl-RbPbBr
+Fermi Energy:            -0.15224 Ha     -4.143 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13186 Ha      3.588 eV
+valence band edge:       -0.22120 Ha     -6.019 eV
+conduction band edge:    -0.08933 Ha     -2.431 eV
+CsPbCl-RbPbF
+Fermi Energy:            -0.14990 Ha     -4.079 eV   -kTS_e= -0.000010Ha
+DFT energy gap:           0.10428 Ha      2.838 eV
+valence band edge:       -0.20404 Ha     -5.552 eV
+conduction band edge:    -0.09976 Ha     -2.714 eV
+CsPbCl-RbSnBr
+Fermi Energy:            -0.15224 Ha     -4.143 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13197 Ha      3.591 eV
+valence band edge:       -0.22031 Ha     -5.995 eV
+conduction band edge:    -0.08834 Ha     -2.404 eV
+CsPbCl-RbSnF
+Fermi Energy:            -0.15206 Ha     -4.138 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.11708 Ha      3.186 eV
+valence band edge:       -0.21270 Ha     -5.788 eV
+conduction band edge:    -0.09562 Ha     -2.602 eV
+CsPbF-CsPbBr
+Fermi Energy:            -0.14996 Ha     -4.081 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13089 Ha      3.562 eV
+valence band edge:       -0.21829 Ha     -5.940 eV
+conduction band edge:    -0.08740 Ha     -2.378 eV
+CsPbF-CsPbF
+Fermi Energy:            -0.14983 Ha     -4.077 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.11701 Ha      3.184 eV
+valence band edge:       -0.21048 Ha     -5.727 eV
+conduction band edge:    -0.09347 Ha     -2.543 eV
+CsPbF-CsPbI
+Fermi Energy:            -0.14758 Ha     -4.016 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12492 Ha      3.399 eV
+valence band edge:       -0.21267 Ha     -5.787 eV
+conduction band edge:    -0.08775 Ha     -2.388 eV
+CsPbF-CsSnBr
+Fermi Energy:            -0.14793 Ha     -4.026 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13615 Ha      3.705 eV
+valence band edge:       -0.21836 Ha     -5.942 eV
+conduction band edge:    -0.08221 Ha     -2.237 eV
+CsPbF-CsSnF
+Fermi Energy:            -0.15254 Ha     -4.151 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13358 Ha      3.635 eV
+valence band edge:       -0.22229 Ha     -6.049 eV
+conduction band edge:    -0.08871 Ha     -2.414 eV
+CsPbF-RbPbBr
+Fermi Energy:            -0.14801 Ha     -4.028 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.12065 Ha      3.283 eV
+valence band edge:       -0.21084 Ha     -5.737 eV
+conduction band edge:    -0.09019 Ha     -2.454 eV
+CsPbF-RbPbF
+Fermi Energy:            -0.14981 Ha     -4.077 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11525 Ha      3.136 eV
+valence band edge:       -0.20958 Ha     -5.703 eV
+conduction band edge:    -0.09433 Ha     -2.567 eV
+CsPbF-RbSnBr
+Fermi Energy:            -0.14855 Ha     -4.042 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.13250 Ha      3.605 eV
+valence band edge:       -0.21688 Ha     -5.901 eV
+conduction band edge:    -0.08438 Ha     -2.296 eV
+CsPbF-RbSnF
+Fermi Energy:            -0.15082 Ha     -4.104 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12518 Ha      3.406 eV
+valence band edge:       -0.21579 Ha     -5.872 eV
+conduction band edge:    -0.09062 Ha     -2.466 eV
+CsPbI-CsPbBr
+Fermi Energy:            -0.15026 Ha     -4.089 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11724 Ha      3.190 eV
+valence band edge:       -0.21232 Ha     -5.778 eV
+conduction band edge:    -0.09508 Ha     -2.587 eV
+CsPbI-CsPbF
+Fermi Energy:            -0.15175 Ha     -4.129 eV   -kTS_e= -0.000007Ha
+DFT energy gap:           0.11027 Ha      3.001 eV
+valence band edge:       -0.20925 Ha     -5.694 eV
+conduction band edge:    -0.09898 Ha     -2.693 eV
+CsPbI-CsPbI
+Fermi Energy:            -0.14926 Ha     -4.062 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11671 Ha      3.176 eV
+valence band edge:       -0.21031 Ha     -5.723 eV
+conduction band edge:    -0.09360 Ha     -2.547 eV
+CsPbI-CsSnBr
+Fermi Energy:            -0.15055 Ha     -4.097 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11624 Ha      3.163 eV
+valence band edge:       -0.21138 Ha     -5.752 eV
+conduction band edge:    -0.09513 Ha     -2.589 eV
+CsPbI-CsSnF
+Fermi Energy:            -0.15252 Ha     -4.150 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11437 Ha      3.112 eV
+valence band edge:       -0.21225 Ha     -5.776 eV
+conduction band edge:    -0.09788 Ha     -2.663 eV
+CsPbI-RbPbBr
+Fermi Energy:            -0.15000 Ha     -4.082 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11735 Ha      3.193 eV
+valence band edge:       -0.21226 Ha     -5.776 eV
+conduction band edge:    -0.09491 Ha     -2.583 eV
+CsPbI-RbPbF
+Fermi Energy:            -0.15128 Ha     -4.117 eV   -kTS_e= -0.000008Ha
+DFT energy gap:           0.10790 Ha      2.936 eV
+valence band edge:       -0.20760 Ha     -5.649 eV
+conduction band edge:    -0.09970 Ha     -2.713 eV
+CsPbI-RbSnBr
+Fermi Energy:            -0.15013 Ha     -4.085 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11561 Ha      3.146 eV
+valence band edge:       -0.21044 Ha     -5.726 eV
+conduction band edge:    -0.09482 Ha     -2.580 eV
+CsPbI-RbSnF
+Fermi Energy:            -0.15211 Ha     -4.139 eV   -kTS_e= -0.000006Ha
+DFT energy gap:           0.11209 Ha      3.050 eV
+valence band edge:       -0.21072 Ha     -5.734 eV
+conduction band edge:    -0.09864 Ha     -2.684 eV
+CsSnBr-CsPbBr
+Fermi Energy:            -0.15236 Ha     -4.146 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12749 Ha      3.469 eV
+valence band edge:       -0.21739 Ha     -5.915 eV
+conduction band edge:    -0.08989 Ha     -2.446 eV
+CsSnBr-CsPbF
+Fermi Energy:            -0.15394 Ha     -4.189 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12312 Ha      3.350 eV
+valence band edge:       -0.21774 Ha     -5.925 eV
+conduction band edge:    -0.09462 Ha     -2.575 eV
+CsSnBr-CsPbI
+Fermi Energy:            -0.15082 Ha     -4.104 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12851 Ha      3.497 eV
+valence band edge:       -0.21664 Ha     -5.895 eV
+conduction band edge:    -0.08814 Ha     -2.398 eV
+CsSnBr-CsSnBr
+Fermi Energy:            -0.15165 Ha     -4.127 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12318 Ha      3.352 eV
+valence band edge:       -0.21394 Ha     -5.822 eV
+conduction band edge:    -0.09076 Ha     -2.470 eV
+CsSnBr-CsSnF
+Fermi Energy:            -0.15416 Ha     -4.195 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12539 Ha      3.412 eV
+valence band edge:       -0.21790 Ha     -5.929 eV
+conduction band edge:    -0.09252 Ha     -2.517 eV
+CsSnBr-RbPbBr
+Fermi Energy:            -0.15184 Ha     -4.132 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12028 Ha      3.273 eV
+valence band edge:       -0.21310 Ha     -5.799 eV
+conduction band edge:    -0.09283 Ha     -2.526 eV
+CsSnBr-RbPbF
+Fermi Energy:            -0.15365 Ha     -4.181 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.12041 Ha      3.276 eV
+valence band edge:       -0.21617 Ha     -5.882 eV
+conduction band edge:    -0.09576 Ha     -2.606 eV
+CsSnBr-RbSnBr
+Fermi Energy:            -0.15126 Ha     -4.116 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12151 Ha      3.306 eV
+valence band edge:       -0.21262 Ha     -5.786 eV
+conduction band edge:    -0.09111 Ha     -2.479 eV
+CsSnBr-RbSnF
+Fermi Energy:            -0.15495 Ha     -4.216 eV   -kTS_e= -0.000007Ha
+DFT energy gap:           0.10856 Ha      2.954 eV
+valence band edge:       -0.21143 Ha     -5.753 eV
+conduction band edge:    -0.10287 Ha     -2.799 eV
+KGeBr-CsPbBr
+Fermi Energy:            -0.15217 Ha     -4.141 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12964 Ha      3.528 eV
+valence band edge:       -0.21854 Ha     -5.947 eV
+conduction band edge:    -0.08890 Ha     -2.419 eV
+KGeBr-CsPbF
+Fermi Energy:            -0.15381 Ha     -4.185 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12763 Ha      3.473 eV
+valence band edge:       -0.22156 Ha     -6.029 eV
+conduction band edge:    -0.09394 Ha     -2.556 eV
+KGeBr-CsPbI
+Fermi Energy:            -0.14964 Ha     -4.072 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12104 Ha      3.294 eV
+valence band edge:       -0.21186 Ha     -5.765 eV
+conduction band edge:    -0.09082 Ha     -2.471 eV
+KGeBr-CsSnBr
+Fermi Energy:            -0.15086 Ha     -4.105 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12319 Ha      3.352 eV
+valence band edge:       -0.21315 Ha     -5.800 eV
+conduction band edge:    -0.08997 Ha     -2.448 eV
+KGeBr-CsSnF
+Fermi Energy:            -0.15324 Ha     -4.170 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12410 Ha      3.377 eV
+valence band edge:       -0.21631 Ha     -5.886 eV
+conduction band edge:    -0.09221 Ha     -2.509 eV
+KGeBr-RbPbBr
+Fermi Energy:            -0.15191 Ha     -4.134 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12883 Ha      3.506 eV
+valence band edge:       -0.21770 Ha     -5.924 eV
+conduction band edge:    -0.08887 Ha     -2.418 eV
+KGeBr-RbPbF
+Fermi Energy:            -0.15242 Ha     -4.148 eV   -kTS_e= -0.000020Ha
+DFT energy gap:           0.09903 Ha      2.695 eV
+valence band edge:       -0.20482 Ha     -5.574 eV
+conduction band edge:    -0.10579 Ha     -2.879 eV
+KGeBr-RbSnBr
+Fermi Energy:            -0.15035 Ha     -4.091 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12170 Ha      3.312 eV
+valence band edge:       -0.21178 Ha     -5.763 eV
+conduction band edge:    -0.09008 Ha     -2.451 eV
+KGeBr-RbSnF
+Fermi Energy:            -0.15428 Ha     -4.198 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11771 Ha      3.203 eV
+valence band edge:       -0.21741 Ha     -5.916 eV
+conduction band edge:    -0.09970 Ha     -2.713 eV
+KPbBr-CsPbBr
+Fermi Energy:            -0.15051 Ha     -4.096 eV   -kTS_e= -0.000006Ha
+DFT energy gap:           0.11035 Ha      3.003 eV
+valence band edge:       -0.20790 Ha     -5.657 eV
+conduction band edge:    -0.09755 Ha     -2.654 eV
+KPbBr-CsPbF
+Fermi Energy:            -0.14905 Ha     -4.056 eV   -kTS_e= -0.000019Ha
+DFT energy gap:           0.09774 Ha      2.660 eV
+valence band edge:       -0.19995 Ha     -5.441 eV
+conduction band edge:    -0.10222 Ha     -2.781 eV
+KPbBr-CsPbI
+Fermi Energy:            -0.15007 Ha     -4.084 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11586 Ha      3.153 eV
+valence band edge:       -0.21077 Ha     -5.735 eV
+conduction band edge:    -0.09491 Ha     -2.583 eV
+KPbBr-CsSnBr
+Fermi Energy:            -0.15103 Ha     -4.110 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11688 Ha      3.180 eV
+valence band edge:       -0.21187 Ha     -5.765 eV
+conduction band edge:    -0.09500 Ha     -2.585 eV
+KPbBr-CsSnF
+Fermi Energy:            -0.15145 Ha     -4.121 eV   -kTS_e= -0.000013Ha
+DFT energy gap:           0.10166 Ha      2.766 eV
+valence band edge:       -0.20431 Ha     -5.560 eV
+conduction band edge:    -0.10265 Ha     -2.793 eV
+KPbBr-RbPbBr
+Fermi Energy:            -0.14859 Ha     -4.043 eV   -kTS_e= -0.000053Ha
+DFT energy gap:           0.08656 Ha      2.355 eV
+valence band edge:       -0.19402 Ha     -5.279 eV
+conduction band edge:    -0.10746 Ha     -2.924 eV
+KPbBr-RbPbF
+Fermi Energy:            -0.14909 Ha     -4.057 eV   -kTS_e= -0.000107Ha
+DFT energy gap:           0.07838 Ha      2.133 eV
+valence band edge:       -0.19033 Ha     -5.179 eV
+conduction band edge:    -0.11195 Ha     -3.046 eV
+KPbBr-RbSnBr
+Fermi Energy:            -0.15007 Ha     -4.084 eV   -kTS_e= -0.000014Ha
+DFT energy gap:           0.10098 Ha      2.748 eV
+valence band edge:       -0.20269 Ha     -5.516 eV
+conduction band edge:    -0.10172 Ha     -2.768 eV
+KPbBr-RbSnF
+Fermi Energy:            -0.15097 Ha     -4.108 eV   -kTS_e= -0.000036Ha
+DFT energy gap:           0.09064 Ha      2.467 eV
+valence band edge:       -0.19834 Ha     -5.397 eV
+conduction band edge:    -0.10770 Ha     -2.931 eV
+LiGeBr-CsPbBr
+Fermi Energy:            -0.15429 Ha     -4.198 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12644 Ha      3.441 eV
+valence band edge:       -0.21796 Ha     -5.931 eV
+conduction band edge:    -0.09151 Ha     -2.490 eV
+LiGeBr-CsPbF
+Fermi Energy:            -0.15211 Ha     -4.139 eV   -kTS_e= -0.000012Ha
+DFT energy gap:           0.10683 Ha      2.907 eV
+valence band edge:       -0.20950 Ha     -5.701 eV
+conduction band edge:    -0.10267 Ha     -2.794 eV
+LiGeBr-CsPbI
+Fermi Energy:            -0.15060 Ha     -4.098 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.11673 Ha      3.176 eV
+valence band edge:       -0.20991 Ha     -5.712 eV
+conduction band edge:    -0.09318 Ha     -2.536 eV
+LiGeBr-CsSnBr
+Fermi Energy:            -0.15242 Ha     -4.148 eV   -kTS_e= -0.000011Ha
+DFT energy gap:           0.10841 Ha      2.950 eV
+valence band edge:       -0.21022 Ha     -5.721 eV
+conduction band edge:    -0.10182 Ha     -2.771 eV
+LiGeBr-CsSnF
+Fermi Energy:            -0.15419 Ha     -4.196 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11795 Ha      3.209 eV
+valence band edge:       -0.21664 Ha     -5.895 eV
+conduction band edge:    -0.09869 Ha     -2.686 eV
+LiGeBr-RbPbBr
+Fermi Energy:            -0.15433 Ha     -4.200 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12469 Ha      3.393 eV
+valence band edge:       -0.21710 Ha     -5.908 eV
+conduction band edge:    -0.09241 Ha     -2.515 eV
+LiGeBr-RbPbF
+Fermi Energy:            -0.15138 Ha     -4.119 eV   -kTS_e= -0.000065Ha
+DFT energy gap:           0.08761 Ha      2.384 eV
+valence band edge:       -0.19882 Ha     -5.410 eV
+conduction band edge:    -0.11121 Ha     -3.026 eV
+LiGeBr-RbSnBr
+Fermi Energy:            -0.15179 Ha     -4.130 eV   -kTS_e= -0.000031Ha
+DFT energy gap:           0.09504 Ha      2.586 eV
+valence band edge:       -0.20247 Ha     -5.510 eV
+conduction band edge:    -0.10743 Ha     -2.923 eV
+LiGeBr-RbSnF
+Fermi Energy:            -0.15538 Ha     -4.228 eV   -kTS_e= -0.000009Ha
+DFT energy gap:           0.11014 Ha      2.997 eV
+valence band edge:       -0.21433 Ha     -5.832 eV
+conduction band edge:    -0.10419 Ha     -2.835 eV
+LiPbBr-CsPbBr
+Fermi Energy:            -0.14607 Ha     -3.975 eV   -kTS_e= -0.000308Ha
+DFT energy gap:           0.06808 Ha      1.852 eV
+valence band edge:       -0.18158 Ha     -4.941 eV
+conduction band edge:    -0.11350 Ha     -3.089 eV
+LiPbBr-CsPbF
+Fermi Energy:            -0.14726 Ha     -4.007 eV   -kTS_e= -0.000118Ha
+DFT energy gap:           0.07738 Ha      2.106 eV
+valence band edge:       -0.18800 Ha     -5.116 eV
+conduction band edge:    -0.11062 Ha     -3.010 eV
+LiPbBr-CsPbI
+Fermi Energy:            -0.14619 Ha     -3.978 eV   -kTS_e= -0.000333Ha
+DFT energy gap:           0.06861 Ha      1.867 eV
+valence band edge:       -0.18129 Ha     -4.933 eV
+conduction band edge:    -0.11268 Ha     -3.066 eV
+LiPbBr-CsSnBr
+Fermi Energy:            -0.14891 Ha     -4.052 eV   -kTS_e= -0.000070Ha
+DFT energy gap:           0.08553 Ha      2.328 eV
+valence band edge:       -0.19287 Ha     -5.248 eV
+conduction band edge:    -0.10734 Ha     -2.921 eV
+LiPbBr-RbPbF
+Fermi Energy:            -0.14939 Ha     -4.065 eV   -kTS_e= -0.000170Ha
+DFT energy gap:           0.07328 Ha      1.994 eV
+valence band edge:       -0.18812 Ha     -5.119 eV
+conduction band edge:    -0.11484 Ha     -3.125 eV
+LiPbBr-RbSnBr
+Fermi Energy:            -0.14679 Ha     -3.994 eV   -kTS_e= -0.000202Ha
+DFT energy gap:           0.07174 Ha      1.952 eV
+valence band edge:       -0.18460 Ha     -5.023 eV
+conduction band edge:    -0.11286 Ha     -3.071 eV
+LiPbBr-RbSnF
+Fermi Energy:            -0.15030 Ha     -4.090 eV   -kTS_e= -0.000057Ha
+DFT energy gap:           0.08553 Ha      2.327 eV
+valence band edge:       -0.19510 Ha     -5.309 eV
+conduction band edge:    -0.10957 Ha     -2.982 eV
+NaGeBr-CsPbBr
+Fermi Energy:            -0.15489 Ha     -4.215 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12515 Ha      3.406 eV
+valence band edge:       -0.21813 Ha     -5.936 eV
+conduction band edge:    -0.09297 Ha     -2.530 eV
+NaGeBr-CsPbF
+Fermi Energy:            -0.15478 Ha     -4.212 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12920 Ha      3.516 eV
+valence band edge:       -0.22114 Ha     -6.018 eV
+conduction band edge:    -0.09194 Ha     -2.502 eV
+NaGeBr-CsSnBr
+Fermi Energy:            -0.15237 Ha     -4.146 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.12010 Ha      3.268 eV
+valence band edge:       -0.21510 Ha     -5.853 eV
+conduction band edge:    -0.09501 Ha     -2.585 eV
+NaGeBr-CsSnF
+Fermi Energy:            -0.15412 Ha     -4.194 eV   -kTS_e= -0.000005Ha
+DFT energy gap:           0.11567 Ha      3.147 eV
+valence band edge:       -0.21552 Ha     -5.865 eV
+conduction band edge:    -0.09985 Ha     -2.717 eV
+NaGeBr-RbPbBr
+Fermi Energy:            -0.15494 Ha     -4.216 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12359 Ha      3.363 eV
+valence band edge:       -0.21733 Ha     -5.914 eV
+conduction band edge:    -0.09374 Ha     -2.551 eV
+NaGeBr-RbPbF
+Fermi Energy:            -0.15061 Ha     -4.098 eV   -kTS_e= -0.000063Ha
+DFT energy gap:           0.08760 Ha      2.384 eV
+valence band edge:       -0.19786 Ha     -5.384 eV
+conduction band edge:    -0.11026 Ha     -3.000 eV
+NaGeBr-RbSnBr
+Fermi Energy:            -0.15185 Ha     -4.132 eV   -kTS_e= -0.000011Ha
+DFT energy gap:           0.10577 Ha      2.878 eV
+valence band edge:       -0.20758 Ha     -5.649 eV
+conduction band edge:    -0.10180 Ha     -2.770 eV
+NaGeBr-RbSnF
+Fermi Energy:            -0.15360 Ha     -4.180 eV   -kTS_e= -0.000013Ha
+DFT energy gap:           0.10527 Ha      2.865 eV
+valence band edge:       -0.20970 Ha     -5.706 eV
+conduction band edge:    -0.10443 Ha     -2.842 eV
+NaPbBr-CsPbBr
+Fermi Energy:            -0.15458 Ha     -4.206 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11956 Ha      3.253 eV
+valence band edge:       -0.21661 Ha     -5.894 eV
+conduction band edge:    -0.09705 Ha     -2.641 eV
+NaPbBr-CsPbF
+Fermi Energy:            -0.14803 Ha     -4.028 eV   -kTS_e= -0.000088Ha
+DFT energy gap:           0.08070 Ha      2.196 eV
+valence band edge:       -0.19047 Ha     -5.183 eV
+conduction band edge:    -0.10977 Ha     -2.987 eV
+NaPbBr-CsPbI
+Fermi Energy:            -0.15200 Ha     -4.136 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11992 Ha      3.263 eV
+valence band edge:       -0.21383 Ha     -5.819 eV
+conduction band edge:    -0.09391 Ha     -2.555 eV
+NaPbBr-CsSnBr
+Fermi Energy:            -0.15034 Ha     -4.091 eV   -kTS_e= -0.000015Ha
+DFT energy gap:           0.10102 Ha      2.749 eV
+valence band edge:       -0.20277 Ha     -5.518 eV
+conduction band edge:    -0.10175 Ha     -2.769 eV
+NaPbBr-CsSnF
+Fermi Energy:            -0.14992 Ha     -4.080 eV   -kTS_e= -0.000028Ha
+DFT energy gap:           0.09346 Ha      2.543 eV
+valence band edge:       -0.19868 Ha     -5.406 eV
+conduction band edge:    -0.10523 Ha     -2.863 eV
+NaPbBr-RbPbBr
+Fermi Energy:            -0.15509 Ha     -4.220 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11850 Ha      3.225 eV
+valence band edge:       -0.21683 Ha     -5.900 eV
+conduction band edge:    -0.09833 Ha     -2.676 eV
+NaPbBr-RbPbF
+Fermi Energy:            -0.14824 Ha     -4.034 eV   -kTS_e= -0.000210Ha
+DFT energy gap:           0.07083 Ha      1.927 eV
+valence band edge:       -0.18574 Ha     -5.054 eV
+conduction band edge:    -0.11491 Ha     -3.127 eV
+NaPbBr-RbSnBr
+Fermi Energy:            -0.15033 Ha     -4.091 eV   -kTS_e= -0.000036Ha
+DFT energy gap:           0.09077 Ha      2.470 eV
+valence band edge:       -0.19779 Ha     -5.382 eV
+conduction band edge:    -0.10702 Ha     -2.912 eV
+NaPbBr-RbSnF
+Fermi Energy:            -0.15031 Ha     -4.090 eV   -kTS_e= -0.000063Ha
+DFT energy gap:           0.08445 Ha      2.298 eV
+valence band edge:       -0.19463 Ha     -5.296 eV
+conduction band edge:    -0.11018 Ha     -2.998 eV
+NaPbBr-RbSnI
+Fermi Energy:            -0.14880 Ha     -4.049 eV   -kTS_e= -0.000035Ha
+DFT energy gap:           0.09104 Ha      2.477 eV
+valence band edge:       -0.19633 Ha     -5.342 eV
+conduction band edge:    -0.10530 Ha     -2.865 eV
+RbGeBr-CsPbBr
+Fermi Energy:            -0.15231 Ha     -4.144 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12923 Ha      3.517 eV
+valence band edge:       -0.21857 Ha     -5.947 eV
+conduction band edge:    -0.08933 Ha     -2.431 eV
+RbGeBr-CsPbF
+Fermi Energy:            -0.15396 Ha     -4.189 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12740 Ha      3.467 eV
+valence band edge:       -0.22130 Ha     -6.022 eV
+conduction band edge:    -0.09390 Ha     -2.555 eV
+RbGeBr-CsSnBr
+Fermi Energy:            -0.15192 Ha     -4.134 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12127 Ha      3.300 eV
+valence band edge:       -0.21334 Ha     -5.805 eV
+conduction band edge:    -0.09206 Ha     -2.505 eV
+RbGeBr-CsSnF
+Fermi Energy:            -0.15327 Ha     -4.171 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12400 Ha      3.374 eV
+valence band edge:       -0.21615 Ha     -5.882 eV
+conduction band edge:    -0.09215 Ha     -2.508 eV
+RbGeBr-CsSnI
+Fermi Energy:            -0.15188 Ha     -4.133 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11230 Ha      3.056 eV
+valence band edge:       -0.20915 Ha     -5.691 eV
+conduction band edge:    -0.09686 Ha     -2.636 eV
+RbGeBr-RbPbBr
+Fermi Energy:            -0.15168 Ha     -4.127 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12399 Ha      3.374 eV
+valence band edge:       -0.21545 Ha     -5.863 eV
+conduction band edge:    -0.09145 Ha     -2.489 eV
+RbGeBr-RbPbF
+Fermi Energy:            -0.15332 Ha     -4.172 eV   -kTS_e= -0.000018Ha
+DFT energy gap:           0.10127 Ha      2.756 eV
+valence band edge:       -0.20722 Ha     -5.639 eV
+conduction band edge:    -0.10595 Ha     -2.883 eV
+RbGeBr-RbSnBr
+Fermi Energy:            -0.15064 Ha     -4.099 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12161 Ha      3.309 eV
+valence band edge:       -0.21207 Ha     -5.771 eV
+conduction band edge:    -0.09047 Ha     -2.462 eV
+RbGeBr-RbSnF
+Fermi Energy:            -0.15312 Ha     -4.167 eV   -kTS_e= -0.000002Ha
+DFT energy gap:           0.12088 Ha      3.289 eV
+valence band edge:       -0.21450 Ha     -5.837 eV
+conduction band edge:    -0.09362 Ha     -2.547 eV
+RbGeBr-RbSnI
+Fermi Energy:            -0.15020 Ha     -4.087 eV   -kTS_e= -0.000001Ha
+DFT energy gap:           0.12683 Ha      3.451 eV
+valence band edge:       -0.21456 Ha     -5.838 eV
+conduction band edge:    -0.08773 Ha     -2.387 eV
+RbPbBr-CsPbBr
+Fermi Energy:            -0.15074 Ha     -4.102 eV   -kTS_e= -0.000006Ha
+DFT energy gap:           0.11129 Ha      3.028 eV
+valence band edge:       -0.20862 Ha     -5.677 eV
+conduction band edge:    -0.09732 Ha     -2.648 eV
+RbPbBr-CsPbF
+Fermi Energy:            -0.15045 Ha     -4.094 eV   -kTS_e= -0.000010Ha
+DFT energy gap:           0.10474 Ha      2.850 eV
+valence band edge:       -0.20471 Ha     -5.570 eV
+conduction band edge:    -0.09997 Ha     -2.720 eV
+RbPbBr-CsPbI
+Fermi Energy:            -0.15001 Ha     -4.082 eV   -kTS_e= -0.000009Ha
+DFT energy gap:           0.10716 Ha      2.916 eV
+valence band edge:       -0.20597 Ha     -5.605 eV
+conduction band edge:    -0.09882 Ha     -2.689 eV
+RbPbBr-CsSnBr
+Fermi Energy:            -0.15132 Ha     -4.118 eV   -kTS_e= -0.000003Ha
+DFT energy gap:           0.11735 Ha      3.193 eV
+valence band edge:       -0.21242 Ha     -5.780 eV
+conduction band edge:    -0.09507 Ha     -2.587 eV
+RbPbBr-CsSnF
+Fermi Energy:            -0.15255 Ha     -4.151 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11658 Ha      3.172 eV
+valence band edge:       -0.21284 Ha     -5.792 eV
+conduction band edge:    -0.09625 Ha     -2.619 eV
+RbPbBr-CsSnI
+Fermi Energy:            -0.15095 Ha     -4.108 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11678 Ha      3.178 eV
+valence band edge:       -0.21185 Ha     -5.765 eV
+conduction band edge:    -0.09507 Ha     -2.587 eV
+RbPbBr-RbPbBr
+Fermi Energy:            -0.14871 Ha     -4.047 eV   -kTS_e= -0.000048Ha
+DFT energy gap:           0.08749 Ha      2.381 eV
+valence band edge:       -0.19460 Ha     -5.295 eV
+conduction band edge:    -0.10711 Ha     -2.915 eV
+RbPbBr-RbPbF
+Fermi Energy:            -0.14914 Ha     -4.058 eV   -kTS_e= -0.000096Ha
+DFT energy gap:           0.07955 Ha      2.165 eV
+valence band edge:       -0.19096 Ha     -5.196 eV
+conduction band edge:    -0.11141 Ha     -3.032 eV
+RbPbBr-RbSnBr
+Fermi Energy:            -0.15086 Ha     -4.105 eV   -kTS_e= -0.000004Ha
+DFT energy gap:           0.11659 Ha      3.172 eV
+valence band edge:       -0.21160 Ha     -5.758 eV
+conduction band edge:    -0.09502 Ha     -2.586 eV
+RbPbBr-RbSnF
+Fermi Energy:            -0.15138 Ha     -4.119 eV   -kTS_e= -0.000030Ha
+DFT energy gap:           0.09274 Ha      2.523 eV
+valence band edge:       -0.19980 Ha     -5.437 eV
+conduction band edge:    -0.10706 Ha     -2.913 eV
+RbPbBr-RbSnI
+Fermi Energy:            -0.15083 Ha     -4.104 eV   -kTS_e= -0.000014Ha
+DFT energy gap:           0.10166 Ha      2.766 eV
+valence band edge:       -0.20404 Ha     -5.552 eV
+conduction band edge:    -0.10239 Ha     -2.786 eV
